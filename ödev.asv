@@ -1,0 +1,12 @@
+clear;
+clc;
+
+
+n=input ('Bir sayý girininiz: ');
+t=0;
+s=0;
+for i=1:n
+    t=t+i;
+end
+ t
+ 
